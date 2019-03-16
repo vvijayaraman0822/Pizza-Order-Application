@@ -1,0 +1,11 @@
+C:\Users\vasudev2296\source\repos\Pizza_Order\Pizza_Order\bin\Debug\Pizza_Order.exe.config
+C:\Users\vasudev2296\source\repos\Pizza_Order\Pizza_Order\bin\Debug\Pizza_Order.exe
+C:\Users\vasudev2296\source\repos\Pizza_Order\Pizza_Order\bin\Debug\Pizza_Order.pdb
+C:\Users\vasudev2296\source\repos\Pizza_Order\Pizza_Order\obj\Debug\Pizza_Order.PizzaOrderForm.resources
+C:\Users\vasudev2296\source\repos\Pizza_Order\Pizza_Order\obj\Debug\Pizza_Order.OrderInvoiceForm.resources
+C:\Users\vasudev2296\source\repos\Pizza_Order\Pizza_Order\obj\Debug\Pizza_Order.Properties.Resource1.resources
+C:\Users\vasudev2296\source\repos\Pizza_Order\Pizza_Order\obj\Debug\Pizza_Order.csproj.GenerateResource.Cache
+C:\Users\vasudev2296\source\repos\Pizza_Order\Pizza_Order\obj\Debug\Pizza_Order.csproj.CoreCompileInputs.cache
+C:\Users\vasudev2296\source\repos\Pizza_Order\Pizza_Order\obj\Debug\Pizza_Order.exe
+C:\Users\vasudev2296\source\repos\Pizza_Order\Pizza_Order\obj\Debug\Pizza_Order.pdb
+C:\Users\vasudev2296\source\repos\Pizza_Order\Pizza_Order\obj\Debug\Pizza_Order.csprojResolveAssemblyReference.cache
